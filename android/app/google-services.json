@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197941259882",
+    "project_id": "flutterbarberbooking-b6819",
+    "storage_bucket": "flutterbarberbooking-b6819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197941259882:android:23183cf04473e00a28a413",
+        "android_client_info": {
+          "package_name": "dr.nebhi.flutter_barber_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197941259882-n1jr5bdqgoa4rni8cj52o1nlgbfppa6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dr.nebhi.flutter_barber_booking",
+            "certificate_hash": "5fb9e4360aa6d2946c0d105f104ef840bad33208"
+          }
+        },
+        {
+          "client_id": "197941259882-rck4q12gp0at6m24rin0b4qjt83ah5t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMn37WDMc5ItCdXoTeJzQDq0Y5MHasFSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197941259882-rck4q12gp0at6m24rin0b4qjt83ah5t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
